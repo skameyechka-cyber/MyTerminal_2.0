@@ -23,7 +23,7 @@ int main()
               "============\n");
 
         printf("write 'help' to see available commands ^_^\n ");
-        printf("write 'exit' to exit program\n");
+        printf("write 'exit' to exit program :(\n");
         printf("Enter command: ");
         scanf("%s", input);
 
@@ -32,7 +32,7 @@ int main()
 
             printf("--Enable commands--\n"
                    "steam - Steam (need internet connection)\n"
-                   "warthunder - Tanks\n"
+                   "warthunder - Tanks in Steam\n"
                                 "youtube - Youtube (need internet connection)\n"
                                 "google - Google chrome browser (need internet connection)\n"
                                 "notepad - Notepad (just notepad -_-)\n"
